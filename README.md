@@ -140,8 +140,6 @@
 </picture>
 
 </div>
-
----
 -->
 
 ## 🎮 Featured Projects:
