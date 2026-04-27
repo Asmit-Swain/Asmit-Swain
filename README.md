@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmit-swain27a15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmit-swain)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-asmit-swain.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swain.asmit2006@gmail.com)
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Asmit_Swain/)
@@ -94,36 +94,36 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsmitSwain27&show_icons=true&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Asmit Swain's Github Stats"/> <!--theme=tokyonight&hide_border=true&bg_color=0D1117"-->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmitSwain27&layout=compact&langs_count=8&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Asmit Swain's Github Stats"/> <!--theme=tokyonight&hide_border=true&bg_color=0D1117"-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asmit-Swain&show_icons=true&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Asmit Swain's Github Stats"/> <!--theme=tokyonight&hide_border=true&bg_color=0D1117"-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-Swain&layout=compact&langs_count=8&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Asmit Swain's Github Stats"/> <!--theme=tokyonight&hide_border=true&bg_color=0D1117"-->
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AsmitSwain27&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asmit-Swain&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AsmitSwain27&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Asmit-Swain&label=Profile%20views&color=0e75b6&style=flat)
 
 </div> 
-
+<!--
 ## 🏆 GitHub Trophies:
 
 <div align="center">
 
-[![Asmit's Github Trophies](https://github-profile-trophy.vercel.app/?username=AsmitSwain27&theme=onedark&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Asmit's Github Trophies](https://github-profile-trophy.vercel.app/?username=Asmit-Swain&theme=onedark&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
-
+</div> 
+-->
 <!--
 ## 📈 Activity Graph:
 
 <div align="center">
 
-[![Asmit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsmitSwain27&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Asmit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Asmit-Swain&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -134,9 +134,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsmitSwain27/AsmitSwain27/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsmitSwain27/AsmitSwain27/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AsmitSwain27/AsmitSwain27/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asmit-Swain/Asmit-Swain/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asmit-Swain/Asmit-Swain/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Asmit-Swain/Asmit-Swain/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -148,10 +148,11 @@
 
 <div align="center">
 
-[![HAVitSync](https://github-readme-stats.vercel.app/api/pin/?username=AsmitSwain27&repo=HAVitSync&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AsmitSwain27/HAVitSync)
-[![HAVitSync App](https://github-readme-stats.vercel.app/api/pin/?username=AsmitSwain27&repo=HAVitSync_App&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AsmitSwain27/HAVitSync_App)
-[![Flappy Bird](https://github-readme-stats.vercel.app/api/pin/?username=AsmitSwain27&repo=Flappy-Bird&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AsmitSwain27/Flappy-Bird)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AsmitSwain27&repo=Portfolio-Asmit_Swain&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AsmitSwain27/Portfolio-Asmit_Swain)
+[![MedSync](https://github-readme-stats.vercel.app/api/pin/?username=Asmit-Swain&repo=MedSync&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Asmit-Swain/MedSync)
+[![HAVitSync](https://github-readme-stats.vercel.app/api/pin/?username=Asmit-Swain&repo=HAVitSync&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AsmitSwain27/HAVitSync)
+[![HAVitSync App](https://github-readme-stats.vercel.app/api/pin/?username=Asmit-Swain&repo=HAVitSync_App&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AsmitSwain27/HAVitSync_App)
+[![Flappy Bird](https://github-readme-stats.vercel.app/api/pin/?username=Asmit-Swain&repo=Flappy-Bird&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AsmitSwain27/Flappy-Bird)
+<!-- [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Asmit-Swain&repo=Portfolio-Asmit_Swain&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AsmitSwain27/Portfolio-Asmit_Swain) -->
 
 </div>
 
